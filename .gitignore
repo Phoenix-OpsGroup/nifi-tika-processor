@@ -1,0 +1,14 @@
+.settings
+.idea
+.classpath
+.project
+*.swp
+*.swo
+*.iml
+/.idea/
+/.settings/
+/bin/
+/sql/
+dependency-reduced-pom.xml
+/deploy/*
+/logs/*
